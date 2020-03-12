@@ -1,0 +1,11 @@
+.file-uploader {
+  .dropzone {
+    min-height: 100px;
+    margin-bottom: 20px;
+    border: dashed 1px rgba(0,0,0,0.3);
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
